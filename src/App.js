@@ -14,6 +14,7 @@ const App = () => {
         </h1>
         <p style={{ marginTop: "10px", marginBottom: "50px" }}>
           You ran your first container.
+          AND TRY
         </p>
         <div>
           <a target="_blank" href={"https://twitter.com/intent/tweet?text=" + shareMessage + "&url=" + shareLink} class="fa fa-twitter" rel="noopener noreferrer"> </a>
